@@ -1,0 +1,54 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Customer",
+        "route": "/customer",
+        "icon" : "bx bxs-user-check"
+    },
+    {
+        "display_name": "Project",
+        "route": "/project",
+        "icon": "bx bxs-buildings"
+
+    },
+    {
+        "display_name": "Design",
+        "route": "/design",
+        "icon": "bx bx-home-heart"
+       
+        
+    },
+    {
+        "display_name": "Contractor",
+        "route": "/contractor",
+        "icon": "bx bxs-briefcase"
+        
+    },
+    {
+        "display_name": "Employee",
+        "route": "/employee",
+        "icon": "bx bx-user-circle"
+        
+    },
+    {
+        "display_name": "Consultant",
+        "route": "/consultant",
+        "icon": "bx bxs-donate-heart"
+        
+    },
+    {
+        "display_name": "Inventory",
+        "route": "/inventory",
+        "icon": "bx bx-store-alt"
+    },
+    {
+        "display_name": "Settings",
+        "route": "/settings",
+        "icon": "bx bx-reset"
+        
+    }
+]
